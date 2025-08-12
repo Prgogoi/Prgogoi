@@ -1,5 +1,5 @@
 
-# 👋 Hey, I'm Tim Hopper!
+# 👋 Hey, I'm Protim Gogoi !
 
 I'm an experienced machine learning platform engineer and Python developer. You can check out my resume at [resume.tdhopper.com](https://resume.tdhopper.com).
 
